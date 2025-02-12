@@ -79,6 +79,7 @@ Quer ajudar no desenvolvimento do projeto? Siga os passos abaixo:
 
 ---
 
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/Novo-Modelo-de-Oficina?tab=MIT-1-ov-file) para mais detalhes.
 
 ---
 
